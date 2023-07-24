@@ -98,10 +98,11 @@
     }
 
     .sec-pic-container {
-        height: 22vh;
+        height: 25vh;
         width: 40vw;
-        background-position: top -6px center;
+        background-position: top -12px center;
         justify-content: center;
+        border: 2px black solid;
     }
 
     .sec-text-p2 {
