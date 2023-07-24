@@ -55,7 +55,7 @@
     }
 
     #profile {
-        height: 83vh;
+        height: 75vh;
         margin-bottom: 0;
     }
 
@@ -98,8 +98,9 @@
     }
 
     .sec-pic-container {
-        width: auto;
-        height: 46vw;
+        height: 22vh;
+        width: 40vw;
+        background-position: top -6px center;
         justify-content: center;
     }
 
@@ -112,6 +113,13 @@
     }
 
     .text-container {
-        text-align: justify;
+        text-align: center;
+    }
+
+    .pic {
+        height: 150px;
+        width: 150px;
+        margin: auto;
+        margin-bottom: 15px;
     }
 }
